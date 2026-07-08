@@ -93,10 +93,14 @@ privacy_policy/
    - Embed directly in your Android app using WebView
    - Host on your website
    - Use in an application web interface
+------------------------------------------------------------------
 
-### Viewing Locally
+### 
+[Viewing Locally](https://<screenshotdz>.github.io/<privacy-policy>)
 
-(https://<screenshotdz>.github.io/<privacy-policy>)
+
+------------------------------------------------------------------
+
 
 ## 🎨 Customization
 
