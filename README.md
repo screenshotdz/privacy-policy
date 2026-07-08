@@ -96,9 +96,11 @@ privacy_policy/
 ------------------------------------------------------------------
 
 ### 
-[Viewing Locally]([https://<screenshotdz>.github.io/<privacy-policy](https://github.com/screenshotdz/privacy-policy)>)
+[Viewing Locally](https://<screenshotdz>.github.io/<privacy-policy>)
 
 
+[شاهد الموقع هنا](https://<screenshotdz>.github.io/<by_a_car>)
+---
 ------------------------------------------------------------------
 
 
