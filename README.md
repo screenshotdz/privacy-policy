@@ -1,4 +1,4 @@
-صوصية الخاصة بـ # Smart Files Manager - Privacy Policy
+# Smart Files Manager - Privacy Policy
 
 A professional, Google Play Store-compliant privacy policy for the Smart Files Manager Android application.
 
@@ -78,13 +78,11 @@ privacy_policy/
 
 2. **Fill in Placeholders**
    - Search for `[Insert ...]` placeholders in the HTML:
-     - `[Developer Name]`
-     - `[Email Address]`
-     - `[Website]`
-     - `[Support Page]`
-     - `[Business Address]`
-     - `[Insert Effective Date]`
-     - `[Insert Last Revision Date]`
+     - `[soufiane nouri]`
+     - `[soufianegtd19@gmail.com]`
+     - `[https://github.com/screenshotdz]`
+     - `[Effective Date 05-06-2026]`
+     - `[Last Revision Date 01-07-2026]`
 
 3. **Customize Content** (if needed)
    - Review all sections for accuracy
@@ -98,10 +96,7 @@ privacy_policy/
 
 ### Viewing Locally
 
-Simply open `index.html` in a web browser:
-- Double-click the file, or
-- Right-click → Open with → [Your Browser]
-- Drag and drop into a browser window
+(https://<screenshotdz>.github.io/<privacy-policy>)
 
 ## 🎨 Customization
 
@@ -212,4 +207,3 @@ For questions or improvements:
 
 **Last Updated**: [01-07-2026]  
 **Effective Date**: [05-06-2026]
-smart files
